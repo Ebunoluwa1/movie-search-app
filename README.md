@@ -29,4 +29,4 @@ The procedures to set this project up;
 .Clone this repository -git clone
 .install dependencies -npm install
 .Start the development server - npm run dev
->>>>>>> 493c49c (movie-search-app)
+
