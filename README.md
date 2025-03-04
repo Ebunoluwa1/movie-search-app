@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # movie-search-app
 A simple movie-search web application. 
 =======
@@ -12,11 +12,11 @@ _ It searches for movies by title
 
 _It has a loading feature 
 
-_It displays movie details such as TItle, Poster,Release Date, and Rating.
+_It displays movie details such as Title, Poster, Release Date, and Rating.
 
 _It properly handles error message when the movie is not found
 
-_Its Responsive with tailwindCSS
+_It's Responsive with tailwindCSS
 
 ## TECHNOLOGIES USED
 . REACT.JS + VITE
